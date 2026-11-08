@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Rincian Tugas 1 & 2
-- **Tugas 1 (Pertemuan 6):** Setup Laravel & Filament 3.x, Migration, Model, Factory, Seeder, serta Resource Dasar (Authors & Books)[cite: 17, 19, 23, 27].
+- **Tugas 1 (Pertemuan 6):** Setup Laravel & Filament 3.x, Migration, Model, Factory, Seeder, serta Resource Dasar (Authors & Books).
 - **Tugas 2 (Pertemuan 7):** Fitur Description, RBAC/Spatie Permission (Admin, Staff, Viewer), Dashboard Widgets (`BookStatsOverview` & `BookStatusChart`), dan Relasi Many-to-Many (`Categories`).
 
 ---
